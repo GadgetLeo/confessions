@@ -36,7 +36,7 @@ export default function AboutPage() {
             </p>
 
             <p className="text-lg leading-relaxed text-gray-700 dark:text-gray-300">
-              Sponsored by ZAMA FHE <span className="text-gray-500 dark:text-gray-400">(i&apos;m kidding who pays for this shit)</span>,
+              Sponsored by <span className="text-gray-500 dark:text-gray-400">(i&apos;m kidding who pays for this shit)</span>,
               we let you post your deepest alpha, drama, or repentance straight to the blockchain
               without revealing a single byte of it.
             </p>
@@ -115,11 +115,6 @@ export default function AboutPage() {
                 <span className="font-semibold text-green-600 dark:text-success">Complete Privacy.</span>
                 {" "}No one can read your confessions. Not me, not the validators, not anyone.
                 Just you and the encrypted void.
-              </p>
-
-              <p className="text-gray-700 dark:text-gray-300">
-                <span className="font-semibold text-cyan-600 dark:text-primary-cyan-start">Powered by ZAMA FHEVM</span>
-                {" "}on Ethereum Sepolia testnet. Because some things are better left encrypted.
               </p>
             </div>
           </div>
